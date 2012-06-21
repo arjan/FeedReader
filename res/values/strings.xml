@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, FeedReaderActivity!</string>
+    <string name="app_name">FeedReader</string>
+    <string name="menu_reload">Verversen</string>
+    <string name="menu_about">Over deze app</string>
+    <string name="version">1.0</string>
+    <string name="ok">OK</string>
+
+</resources>
